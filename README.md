@@ -1,9 +1,9 @@
-### Hola !!👋
+### Hola, Soy Sara!!👋
 
 <!--
 **saracds/saracds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Soy desarrolladora web 
+
 
 
 - 🔭 I’m currently working on ...
@@ -15,3 +15,5 @@ Soy desarrolladora web
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Soy desarrolladora web 
