@@ -13,4 +13,10 @@
 - ⚡ Fun fact: ...
 -->
 
-Soy desarrolladora web
+Estoy recién graduada en Programación de Sistemas del Politécnico Colombiano Jaime Isaza Cadavid
+
+Me apasiona el desarrollo porque me permite crear cosa nuevas que impactan nuestras vidas, como solucionar problemas y optimizar procesos.
+
+🎯Mi objetivo es desarrollar mi carrera profesional en Programación de Sistemas haciendo parte de una empresa que me permita aplicar todo lo aprendido hasta ahora y seguir creciendo tanto personal como profesionalmente para lograr los mejores resultados posibles.
+
+Si quieres saber más sobre mí, pueden conectar conmigo por LinkedIn o mandarme un correo.
