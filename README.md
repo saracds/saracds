@@ -19,4 +19,4 @@ Me apasiona el desarrollo porque me permite crear cosas nuevas que impactan nues
 
 🎯Mi objetivo es desarrollar mi carrera profesional en Programación de Sistemas haciendo parte de una empresa que me permita aplicar todo lo aprendido hasta ahora y seguir creciendo tanto personal como profesionalmente para lograr los mejores resultados posibles.
 
-Si quieres saber más sobre mí, pueden conectar conmigo por LinkedIn o mandarme un correo.
+Si quieres saber más sobre mí, pueden conectar conmigo por [LinkedIn](www.linkedin.com/in/sara-cárdenas) o mandarme un correo.
